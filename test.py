@@ -17,7 +17,7 @@ class TestGates(unittest.TestCase):
 
     def test_boolean(self):
         self.assertEqual(self.gates.TRUE(), 1)
-        self.assertAlmostEqual(self.gates.FALSE(), 0)
+        self.assertEqual(self.gates.FALSE(), 0)
 
     def test_not(self):
         data = 0, 1
