@@ -1,7 +1,7 @@
 class Gates:
     def __init__(self) -> None:
-        self.TRUE = lambda : 1
-        self.FALSE = lambda : 0
+        self.TRUE = 1
+        self.FALSE = 0
         self.NOT = lambda x: 1 - x
         self.AND = lambda x, y: x * y
         self.OR = lambda x, y: x + y - x * y
