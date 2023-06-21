@@ -1,7 +1,3 @@
-
-from matplotlib import pyplot as plt
-
-
 class Gates:
     def __init__(self) -> None:
         self.TRUE = lambda : 1
