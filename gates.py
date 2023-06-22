@@ -1,10 +1,10 @@
 """This module contains the Gates class.
 
 An instance of the Gates class is composed of several attributes referencing lambda fuctions.
-Each lambda fuction contains the logic for various logic gates. (NOT, AND, OR, ect.) 
+Each lambda fuction contains the logic for various 'logic gates'. (AND, OR, NOT, ect.) 
 In addition, an instance of subclass NandConstruction is referenced by the Gates class attribute NAND_CONSTRUCTION
-The subclass instance functionaly contains the same logic gates (not, and, or, ect.), but logically constructs the gates 
-using ony the nand, "NOT AND", attribute from the Gates class."""
+The subclass instance contains functionaly the same logic gates (AND, OR, NOT, ect.), but logically constructed with 
+only the nand gate, "NOT-AND gate", attribute from the Gates class."""
 
 
 class Gates:
