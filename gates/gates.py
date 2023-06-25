@@ -3,7 +3,7 @@
 An instance of the Gates class is composed of several attributes referencing lambda fuctions.
 Each lambda fuction contains the logic for various 'logic gates'. (AND, OR, NOT, ect.) 
 In addition, an instance of subclass NandConstruction is referenced by the Gates class attribute NAND_CONSTRUCTION
-The subclass instance contains functionaly the same logic gates (AND, OR, NOT, ect.), but logically constructed with 
+This subclass instance contains functionaly the same logic gates (AND, OR, NOT, ect.), but logically constructed with 
 only the nand gate, "NOT-AND gate", attribute from the Gates class."""
 
 
