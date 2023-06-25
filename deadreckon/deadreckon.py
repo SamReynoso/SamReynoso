@@ -1,5 +1,5 @@
 """
-Deadreckon is a cool name for a module, so this module that deadreckons.
+Deadreckon is a cool name for a module, so this module deadreckons.
 
 Deadreckon could take geographic coordinate in string form or as kwargs but it doesn't.
 It could track a csv file on the local file system and update another file system with
