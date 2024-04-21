@@ -1,3 +1,3 @@
-### Hi, I'm Sam Reynoso
+### Hi, I'm Sam
 
 Certainly,
