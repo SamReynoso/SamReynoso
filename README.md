@@ -1,16 +1,10 @@
-GitHub Profile: SamReynoso
+# SamReynoso
 
-👋 Hello! I'm Sam, a passionate Python developer and open-source enthusiast. I specialize in creating practical tools and libraries to streamline data management and processing tasks.
+Hey, I'm Sam, a passionate technology enthusiast. I'm a self-taught hobbyist who loves statistics, networking, automation, and data processing. As a hobbyist I try to do most things the hard way. I might be learning to configure iptables and nftables to jump the wifi from an old Toshiba laptop, or I might be spending my birthday trying to reinvent an algorithm. I like doing things like normalizing to the polar coordinate system and avoiding the right answers.
 
-🔧 My Projects:
-1. **MilkCow**: A versatile Python library for building middleware, local storage solutions, and multiprocessing scripts using SQLite database files. It seamlessly integrates Python and JSON data for efficient data management.
+## My Projects:
+1. **MilkCow**: A new project. I would say this is a Pandas clone, or a SQLite wrapper for building middleware, local storage solutions, and multiprocessing scripts using SQLite database files.
    
-2. **Note Unfancy**: A lightweight yet powerful Shell script for quick note-taking from the terminal. It offers features such as archiving, keyword search, and multi-line mode, adhering to the Unix philosophy of simplicity and modularity.
+2. **Note Unfancy**: A lightweight shell script for quick note-taking from the terminal. It's full-featured with everything you could need but requires dmenu for the open feature.
 
-💼 Currently, I'm exploring new ways to leverage Python and other technologies to solve real-world problems and contribute to the open-source community.
-
-🌱 I'm always learning and experimenting with new ideas, so feel free to check out my repositories and reach out if you have any questions or collaboration opportunities!
-
-Let's connect and build something awesome together! 🚀
-
-GitHub: [Sameynoso](https://github.com/SamReynoso)
+I'm currently very busy learning, and experimenting with new ideas, but I can spin a lot of plates, given the plate is interesting. So, hit me up if you need more manpower on a project. I'll help any way I can.
