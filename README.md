@@ -1,6 +1,7 @@
 # SamReynoso
+### personal github
 
-Hey, I'm Sam, a passionate technology enthusiast. I'm a self-taught hobbyist who loves statistics, networking, automation, and data processing. As a hobbyist I try to do most things the hard way. I might be learning to configure iptables and nftables to jump the wifi from an old Toshiba laptop, or I might be spending my birthday trying to reinvent an algorithm. I like doing things like normalizing to the polar coordinate system and avoiding the right answers.
+Hey, I'm Sam, a passionate technology enthusiast. I'm a self-taught hobbyist of statistics, networking, automation, and data processing. As a hobbyist I try to do most things the hard way. I might be learning to configure iptables and nftables to jump the wifi from an old Toshiba laptop, or I might be spending my birthday trying to reinvent an algorithm. I like doing things like normalizing to the polar coordinate system and avoiding the right answers.
 
 ## My Projects:
 1. **MilkCow**: A new project. I would say this it is a SQLite wrapper for building middleware, local storage solutions, and multiprocessing scripts using SQLite database files.
